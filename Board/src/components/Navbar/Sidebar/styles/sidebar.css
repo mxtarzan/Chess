@@ -1,0 +1,94 @@
+.sidebar {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    opacity:0.85;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.75s;
+    padding-top: 60px;
+    white-space: nowrap;
+  }
+  
+  .sidebar a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidebar a:hover {
+    color: #f1f1f1;
+  }
+  
+  .sidebar .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  .openbtn {
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #343a40;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+  }
+  
+  .openbtn:hover {
+    color:peru;
+  }
+  
+  #main {
+    transition: margin-left 0.75s;
+    padding: 16px;
+  }
+  
+  /* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+  @media screen and (max-height: 450px) {
+    .sidebar {padding-top: 15px;}
+    .sidebar a {font-size: 18px;}
+  }
+  .fa-spin-front {
+    animation: fa-spin 1 0.75s cubic-bezier(0.01, -0.01, 1, 1);
+    animation-duration:0.55s;
+    animation-timing-function: cubic-bezier(0.01, -0.01, 1, 1);
+    animation-delay: 0s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: fa-spin;
+  }
+  .fa-spin-back {
+    animation: fa-spin 1 0.75s cubic-bezier(0.01, -0.01, 1, 1);
+   animation-duration:0.55s;
+    animation-timing-function: cubic-bezier(0.01, -0.01, 1, 1);
+    animation-delay: 0s;
+    animation-iteration-count: 1;
+    animation-direction: reverse;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: fa-spin;
+  }
+.button{
+  color:peru;
+  background: linear-gradient(to right, white,white 50%, peru 50%);
+  transition: background-position 275ms ease;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 200% 100%;
+  background-position: 100%;
+}
+.button:hover{
+  background-position: 0 100%;
+}

@@ -1,0 +1,8 @@
+com/trzn/chess/repository/ChessRepository.class
+com/trzn/chess/service/ChessService.class
+com/trzn/chess/DTO/Move.class
+com/trzn/chess/service/ChessServiceImpl.class
+com/trzn/chess/entity/Boards.class
+com/trzn/chess/api/ChessAPI.class
+com/trzn/chess/DTO/Piece.class
+com/trzn/chess/ChessApplication.class

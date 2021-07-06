@@ -1,0 +1,8 @@
+/home/tarzan/Projects/chess/Engine/UserMS/src/main/java/com/store/user/entity/Users.java
+/home/tarzan/Projects/chess/Engine/UserMS/src/main/java/com/store/user/dto/UserDTO.java
+/home/tarzan/Projects/chess/Engine/UserMS/src/main/java/com/store/user/repository/UserRepository.java
+/home/tarzan/Projects/chess/Engine/UserMS/src/main/java/com/store/user/service/UserService.java
+/home/tarzan/Projects/chess/Engine/UserMS/src/main/java/com/store/user/api/UserAPI.java
+/home/tarzan/Projects/chess/Engine/UserMS/src/main/java/com/store/user/exception/UserException.java
+/home/tarzan/Projects/chess/Engine/UserMS/src/main/java/com/store/user/service/UserServiceImpl.java
+/home/tarzan/Projects/chess/Engine/UserMS/src/main/java/com/store/user/UserApplication.java

@@ -1,0 +1,10 @@
+.loginbtn{
+    font-size: 20px;
+    cursor: pointer;
+    background-color: #343a40;
+    color: white;
+    border: none;
+}
+.loginbtn:hover{
+    color:peru
+}

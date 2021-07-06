@@ -1,0 +1,8 @@
+/home/tarzan/Projects/chess/Engine/ChessMS/src/main/java/com/trzn/chess/ChessApplication.java
+/home/tarzan/Projects/chess/Engine/ChessMS/src/main/java/com/trzn/chess/repository/ChessRepository.java
+/home/tarzan/Projects/chess/Engine/ChessMS/src/main/java/com/trzn/chess/DTO/Piece.java
+/home/tarzan/Projects/chess/Engine/ChessMS/src/main/java/com/trzn/chess/entity/Boards.java
+/home/tarzan/Projects/chess/Engine/ChessMS/src/main/java/com/trzn/chess/api/ChessAPI.java
+/home/tarzan/Projects/chess/Engine/ChessMS/src/main/java/com/trzn/chess/DTO/Move.java
+/home/tarzan/Projects/chess/Engine/ChessMS/src/main/java/com/trzn/chess/service/ChessServiceImpl.java
+/home/tarzan/Projects/chess/Engine/ChessMS/src/main/java/com/trzn/chess/service/ChessService.java

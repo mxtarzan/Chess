@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: tarzan
+Build-Jdk: 15
+Implementation-Title: Friend-Family-Microservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.store.user
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/UserMS
+Created-By: Maven Integration for Eclipse
+
